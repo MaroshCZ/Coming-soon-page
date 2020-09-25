@@ -1,5 +1,6 @@
 body {
   background-image: url('template/images/bg-pattern-desktop.svg');
+  background-color: linear-gradient(135deg, #ffffff, #fff5f5);
   background-repeat: no-repeat;
   background-size: 100% 100%;
   margin: 0;
@@ -74,6 +75,7 @@ button {
 
 button:hover {
   box-shadow: -2px 13px 10px 3px rgba(206, 151, 151, 0.2);
+  background: #F8BFBF;
 }
 button:focus {
   outline: none;
